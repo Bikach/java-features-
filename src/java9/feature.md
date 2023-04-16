@@ -1,21 +1,21 @@
-1. Module System (Project Jigsaw) : le système de modules est la fonctionnalité clé de Java 9, qui a introduit une nouvelle structure modulaire pour organiser et encapsuler les bibliothèques et les applications Java.
+1. **Module System (Project Jigsaw)**: The module system is the key feature of Java 9, which introduced a new modular structure for organizing and encapsulating Java libraries and applications.
 
-2. JShell (REPL) : JShell est un nouvel outil interactif qui permet aux développeurs d'évaluer rapidement des fragments de code Java sans avoir besoin de créer un projet complet.
+2. **JShell (REPL)**: JShell is a new interactive tool that allows developers to quickly evaluate snippets of Java code without needing to create a full project.
 
-3. Améliorations de l'API Stream : de nouvelles méthodes ont été ajoutées à l'API Stream pour améliorer la productivité et la facilité d'utilisation.
+3. **Stream API Improvements**: New methods have been added to the Stream API to improve productivity and ease of use.
 
-4. Factory Methods pour les Collections : Java 9 a introduit des méthodes factory pour faciliter la création de collections immuables, comme List, Set et Map.
+4. **Factory Methods for Collections**: Java 9 introduced factory methods to facilitate the creation of immutable collections, such as List, Set, and Map.
 
-5. API ProcessHandle : cette API permet aux développeurs de contrôler et de gérer les processus du système d'exploitation de manière plus efficace.
+5. **ProcessHandle API**: This API allows developers to control and manage operating system processes more efficiently.
 
-6. Private Interface Methods : cette fonctionnalité permet de définir des méthodes privées dans les interfaces pour éviter le code en double et améliorer la réutilisabilité.
+6. **Private Interface Methods**: This feature allows for defining private methods in interfaces to avoid code duplication and enhance reusability.
 
-7. Reactive Streams (Flow API) : Java 9 a ajouté une nouvelle API Reactive Streams pour faciliter la communication asynchrone entre les composants, en mettant l'accent sur la demande en fonction des besoins et la gestion de la pression.
+7. **Reactive Streams (Flow API)**: Java 9 added a new Reactive Streams API to facilitate asynchronous communication between components, with a focus on demand-based request and pressure management.
 
-8. Améliorations du Garbage Collector (GC) : le Garbage Collector a été amélioré pour réduire la latence et augmenter les performances.
+8. **Garbage Collector (GC) Improvements**: The Garbage Collector has been improved to reduce latency and increase performance.
 
-9. HTTP/2 Client (Incubator) : un nouveau client HTTP/2 a été introduit pour prendre en charge la dernière version du protocole HTTP et améliorer les performances.
+9. **HTTP/2 Client (Incubator)**: A new HTTP/2 client was introduced to support the latest version of the HTTP protocol and enhance performance.
 
-10. Multi-release JAR files : cette fonctionnalité permet de créer des fichiers JAR qui fonctionnent avec plusieurs versions de Java, en incluant des classes spécifiques à chaque version.
+10. **Multi-release JAR files**: This feature allows for creating JAR files that work with multiple versions of Java, including version-specific classes.
 
-11. Javadoc amélioré : le générateur de documentation Javadoc a été amélioré avec l'ajout de la prise en charge des tags HTML5, du moteur de recherche et d'autres améliorations.
+11. **Improved Javadoc**: The Javadoc documentation generator has been enhanced with the addition of support for HTML5 tags, a search engine, and other improvements.
