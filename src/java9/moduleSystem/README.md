@@ -94,7 +94,7 @@ public enum Civility {
 ```
 
 ### Department Module
-The `Department module` defines the `Department class`, representing a company department with a name and a list of employees. 
+The `Department module` defines the `Department class`, representing a company department with a name and a list of employees.
 The module exports the `com.example.department` package and requires the `com.example.employee module to access the Employee class.
 
 Department.java
